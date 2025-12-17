@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tim Nevits
 
-<!--
-**LittleHouse75/LittleHouse75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer with 8 years at Visa building high-availability, security-sensitive systems (EMV 3-D Secure). Flatiron AI/ML Engineering graduate with capstones in fraud detection and transformer summarization, focused on rigorous evaluation and explainability. Seeking backend + production applied ML roles.
 
-Here are some ideas to get you started:
+## Capstone Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ethereum Fraud Detection Pipeline** — Address-level fraud/scam classification with time-aware validation, feature engineering, and explainability.  
+  https://github.com/LittleHouse75/ml-capstone-ethereum-fraud-detection/blob/main/notebooks/00_Overview.ipynb
+
+- **Dialogue Summarization (NLP / LLMs)** — Benchmarks transformer approaches for summarizing noisy chat logs, comparing architectures and evaluation tradeoffs.  
+  https://github.com/LittleHouse75/ml-capstone-summarization-models/blob/main/notebooks/00_introduction.ipynb
+
+## Links
+- GitHub: https://github.com/LittleHouse75
+- LinkedIn: https://www.linkedin.com/in/tim-nevits/
